@@ -7,8 +7,8 @@
 - A scope written in Markdown.
 - A webpage with information about my personal and academic life.
 ##Exclusions
-- No CSS file
-- No JavaScript file 
-- No pictures 
+- No CSS file.
+- No JavaScript file. 
+- No pictures. 
 
 
