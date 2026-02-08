@@ -1,7 +1,7 @@
 ##Project Purpose
-- The purpose of this project is to create a personal webpage and to develope my HTML and markdown documenting skills.
+- The purpose of this project is to create a personal webpage and to develop my HTML and Markdown documenting skills.
 ##Description
-- This project includes a personal webpage and information about the webpage in a markdown document file. The webpage shows HTML structure and information about my major, goals, interests, and hobbies. 
+- This project includes a personal webpage and information about the webpage in a Markdown document file. The webpage shows HTML structure and information about my major, goals, interests, and hobbies. 
 ##Desired Results
 - A HTML webpage with quality structure.
 - A scope written in Markdown.
